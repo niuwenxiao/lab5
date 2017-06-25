@@ -1,0 +1,155 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body{
+	 background-image: url(../images/beijing.jpg);
+	 background-repeat:no-repeat;
+	 background-size: 1900px 1600px;
+	 overflow:auto;
+	 width: 1900px;
+	 height: 1600px;
+	 font-weight: 700px;
+}
+#banner{
+	height: 470px;
+	width: 1900px;
+	align-content: center;
+}
+.fr{
+	float: right;
+	margin-right: 30px;
+}
+.site-top{
+	background-color: #D31B2A;
+	height: 70;
+	width: 1900px;
+	opacity: 0.9;
+}
+.logo{
+	margin-top: 5px;
+	margin-left: 30px;
+	height: 60px;
+	width: 350px;
+	border: 3 solid;
+	opacity: 1;
+}
+.site-link-t{
+	display: block;
+	width: 31px;
+	height: 31px;
+	line-height: 31px;
+	border-radius: 50%;
+	background: #f8f8f6;
+	font-size: 16px;
+	color: #e50012;
+	text-align: center;
+}
+.site-link-b{
+	font-size: 14px;
+	color: #fff;
+	line-height: 20px;
+}
+td{
+	 width: 200px;
+	 height: 40px;
+	 float: left;
+	 margin-left: 70px;
+}
+a{
+	 text-decoration-line: none;
+	 font-color:red;
+}
+#content{
+	opacity: 0.8;
+	width: 100%;
+	height: 750px;
+}
+.sou{
+	margin-left:600px;
+	margin-top: 50px;
+	float: left;
+}
+.tu{
+	margin-top: 50px;
+	float: left;
+	margin-left: 200px;
+}
+.img{
+	width: 300px;
+	height: 300px;
+	margin-left: 150px;
+	margin-top: 30px;
+	opacity: 0.8;
+}
+.img:hover{
+	opacity: 1;
+}
+a:hover .img{
+	border: 2px solid #333333;
+}
+#footer{
+	width: 100%;
+	height:250px;
+	margin-top: 150px;
+}
+.wenbu{
+	font:italic bold 40px '宋体';
+	color:#ea0000;
+	text-indent: 100px;
+}
+.con{
+	width: 1900px;
+	height: 1100px;
+	background-image: url(../images/timg19.jpg);
+	background-size: 1900px 1100px;
+    float: left;
+}
+.shu{
+	height: 1100px;
+	width: 350px;
+	margin-top: 10px;
+	margin-left: 200px;
+	opacity: 0.8;
+	float: left;
+}
+.bei{
+	width: 350px;
+	height: 270px;
+	opacity: 1;
+}
+.list{
+	width: 600px;
+	height: 1100px;
+	margin-left: 400px;
+	float: left;
+}
+ul li{
+	list-style-type: none;
+	margin-top: 15px;
+	display: block;
+	font-weight: bold;
+}
+a:hover{
+	color: #ea0000;
+}
+.Cluo{
+	width: 1900px;
+	height: 1100px;
+    background-image: url(../images/timg11.jpg);
+    background-size: 100% 1100px;
+    opacity: 0.6;
+}
+.wen{
+	width: 1400px;
+	height: 1100px;
+	margin-left: 10px;
+    margin-left: 200px;
+}
+.p{
+	font-size: 30px;
+	color: red;
+	line-height: 60px;
+    
+}
